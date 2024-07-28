@@ -1,4 +1,4 @@
-<h2 align="center"> Hello,<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3UydXYyazQzMG9kdXVscG1lYzFkMTI4bnVic2xkbWZsZmVicTk5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp" width="50"><br/> I'm Pratik Mehta! </h2>
+<h2> Hi, I'm Pratik Mehta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="/assets/output-onlinegiftools.gif" width="400">
 <p><em>Developer at <a href="https://titanslab.in">TitansLab Inc.</a><img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="30"> 
 </em></p>
