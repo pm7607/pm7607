@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=pm7607&style=flat-square&color=green" alt=""/>
 <h2> Hi, I'm Pratik Mehta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="/assets/output-onlinegiftools.gif" width="400">
 <p><em>Developer at <a href="https://titanslab.in">TitansLab Inc.</a><img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="30"> 
@@ -25,12 +26,16 @@ public class Pratik {
 }
 
 ```
+### work capabilities :
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,php,git,mysql,wordpress,figma,ps,c,cpp,dart,flutter,nextjs,github,python)](https://skillicons.dev)
+<br/>
 
 ### 📊 Github Stats
-![Pratik GitHub stats](https://github-readme-stats.vercel.app/api?username=pm7607&show_icons=true&theme=radical)<br>
+![Pratik GitHub stats](https://github-readme-stats.vercel.app/api?username=pm7607&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pm7607&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
 ![Pratik GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pm7607&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
-# Contact Me :
+# Reach out to Me  :
 
 <p>
  </br>
