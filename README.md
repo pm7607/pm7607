@@ -1,10 +1,10 @@
 <h2> Hello, I'm Pratik Mehta! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3UydXYyazQzMG9kdXVscG1lYzFkMTI4bnVic2xkbWZsZmVicTk5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp" width="50"></h2>
-<img align='right' src="/assets/output-onlinegiftools.gif" width="200">
+<img align='right' src="/assets/output-onlinegiftools.gif" width="400">
 <p><em>Developer at <a href="https://titanslab.in">TitansLab Inc.</a><img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="30"> 
 </em></p>
 
 
-[![Linkedin: pratikmehta07](https://img.shields.io/badge/-Dhyey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pratikmehta07)](https://www.linkedin.com/in/pratikmehta07)
+[![Linkedin: pratikmehta07](https://img.shields.io/badge/-Pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pratikmehta07)](https://www.linkedin.com/in/pratikmehta07)
 [![GitHub pm7607](https://img.shields.io/github/followers/pm7607?label=follow&style=social)](https://github.com/pm7607)
 
 
