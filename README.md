@@ -40,6 +40,7 @@ public class Pratik {
 
 
 Please ping me if you want to chat to me about anything, have a question, or simply want to hang out and play games 😝
+<br/>
 <a href="mailto:premmehta7607@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="/assets/gmail.png" />
 </a>
