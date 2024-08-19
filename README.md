@@ -28,7 +28,7 @@ public class Pratik {
 ```
 ### work capabilities :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,php,git,mysql,wordpress,figma,ps,c,cpp,dart,flutter,nextjs,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,php,git,mysql,wordpress,figma,c,cpp,dart,flutter,nextjs,github,python)](https://skillicons.dev)
 <br/>
 
 ### 📊 Github Stats
