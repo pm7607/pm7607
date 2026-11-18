@@ -1,18 +1,22 @@
-<div align="center">
+<p>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&pause=2000&color=000000&width=435&lines=Hi+I'm+Pratik+M!" alt="Typing SVG" /></a>
+</p>
 
-# Hi, I'm Pratik M!
 
-### Driven by curiosity and growing with every step
+<p>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&pause=2000&color=000000&width=435&lines=Driven+by+curiosity;growing+with+every+step" alt="Typing SVG" /></a>
+</p>
 
-Developer at [TitansLab Inc.](https://titanslab.in/)
-
-</div>
+<p>
+    <a href="https://titanslab.in/"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=14&pause=1000&color=000000&width=435&lines=Developer+at+TitansLab+Inc." alt="Typing SVG" /></a>
+</p>
+<img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="30">
 
 [![Linkedin: pratikmehta07](https://img.shields.io/badge/-Pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pratikmehta07)](https://www.linkedin.com/in/pratikmehta07)
 [![GitHub pm7607](https://img.shields.io/github/followers/pm7607?label=follow&style=social)](https://github.com/pm7607)
 
 
-### 👋 A bit more about myself
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit more about myself...   
 
 ```javascript
 public class Pratik {
@@ -121,19 +125,22 @@ public class Pratik {
 </details>
 
 <br>
-# Reach out to me
+# Reach out to Me  :
 
 <p>
  </br>
 
 
-Please ping me if you want to chat, ask a question, or simply hang out and play games 😝
+<img hight="320" width="450" align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIwZzc0ZGhmZTBwbG5wOWVpbnhsbTJ2eWRqMm9renF2ejVkMnJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.webp">
+
+
+Please ping me if you want to chat to me about anything, have a question, or simply want to hang out and play games 😝
 <br/>
 <a href="mailto:premmehta7607@gmail.com">
- <img align="left" alt="Gmail" width="130" height="100" src="/assets/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="/assets/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/pratikmehta07">
-  <img align="left" alt="LinkedIn" width="130" height="100" src="/assets/linkedin.png" />
+  <img align="left" alt="Linkedin" width="130" hight="100" src="/assets/linkedin.png" />
 </a>
  </p>
 </br>
