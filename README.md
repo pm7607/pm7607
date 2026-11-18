@@ -1,12 +1,15 @@
-<div align="center">
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&pause=2000&color=FFFFFF&width=435&lines=Hi+I'm+Pratik+M!" alt="Hi, I'm Pratik M!" /></a>
+</p>
 
-# Hi, I'm Pratik M!
+<p align="center" style="margin-top:-8px;margin-bottom:-8px;">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&pause=2000&color=FFFFFF&width=435&lines=Driven+by+curiosity;growing+with+every+step" alt="Driven by curiosity; growing with every step" /></a>
+</p>
 
-**Driven by curiosity; growing with every step**
-
-[Developer at TitansLab Inc.](https://titanslab.in/)
-
-</div>
+<p align="center">
+  <a href="https://titanslab.in/"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=14&pause=1000&color=FFFFFF&width=435&lines=Developer+at+TitansLab+Inc." alt="Developer at TitansLab Inc." /></a>
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="30" alt="Working" />
+</p>
 
 [![Linkedin: pratikmehta07](https://img.shields.io/badge/-Pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pratikmehta07)](https://www.linkedin.com/in/pratikmehta07)
 [![GitHub pm7607](https://img.shields.io/github/followers/pm7607?label=follow&style=social)](https://github.com/pm7607)
